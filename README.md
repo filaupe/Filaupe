@@ -1,8 +1,8 @@
 ## Oi eu sou MulinhaGPlays, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/MulinhaGPlays">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MulinhaGPlays&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulinhaGPlays&layout=compact&langs_count=7&theme=visualstudio"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MulinhaGPlays&show_icons=true&theme=rainbow&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulinhaGPlays&layout=compact&langs_count=7&theme=rainbow"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Filaupe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
