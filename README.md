@@ -11,7 +11,7 @@
   <img align="center" alt="Filaupe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Filaupe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Filaupe-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Filaupe-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Filaupe-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
   <img align="right" alt="Filaupe-pic" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/ytc/AKedOLQ8EkEnXoIulQ4JczubOcy0oZQRoupZzb9_SicrsA=s600-c-k-c0x00ffffff-no-rj-rp-mo">
 </div>
   
