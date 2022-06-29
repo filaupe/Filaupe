@@ -1,7 +1,7 @@
 ## Oi eu sou MulinhaGPlays, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/MulinhaGPlays">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MulinhaGPlays&show_icons=true&theme=manokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MulinhaGPlays&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulinhaGPlays&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
