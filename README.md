@@ -12,7 +12,7 @@
   <img align="center" alt="Filaupe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Filaupe-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Filaupe-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Filaupe-pic" height="150" style="border-radius:50px;" src="https://cf.workana.com/logos/fa7b5e0674b58d127237206afbdd0098/ws/filaupe_283708236_502593058213764_8295847848079342287_n_192_192.jpg">
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
   
   ##
