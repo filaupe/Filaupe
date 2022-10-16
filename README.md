@@ -1,5 +1,5 @@
 
-# Oi eu sou MulinhaGPlays, Freelancer e programador!
+# README em produção...
 <div align="center">
 <a href="https://github.com/MulinhaGPlays">
 <img height=180em" src="https://github-readme-stats.vercel.app/api?username=MulinhaGPlays&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
