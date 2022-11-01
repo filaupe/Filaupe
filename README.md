@@ -1,7 +1,27 @@
-
-# README em produção...
-<div align="center">
-<a href="https://github.com/MulinhaGPlays">
-<img height=180em" src="https://github-readme-stats.vercel.app/api?username=MulinhaGPlays&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-<img width="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulinhaGPlays&layout=compact&langs_count=7&theme=monokaihttps://github-readme-stats.vercel.app/api/top-langs/?username=MulinhaGPlays&hide=html&layout=compact=true&theme=cobalt)"/>                                                                                                                 
-</div>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container-sm">
+        <div class="card text-bg-dark mb-3" style="max-width: 540px;">
+            <div class="row g-0">
+                <div class="col-md-4">
+                <img src="https://github.com/mulinhagplays.png" class="img-fluid rounded-start" alt="...">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-header">Header</div>
+                    <div class="card-body">
+                        <img height=180em" src="https://github-readme-stats.vercel.app/api?username=MulinhaGPlays&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script>
+  </body>
+</html>
