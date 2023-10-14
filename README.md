@@ -1,12 +1,3 @@
-Luiz Felipe 👨🏻‍💻 - Filaupe
-
-<h4 align="center">
-
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/mulinhagplays)](https://www.instagram.com/mulinhagplays/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/mulinhagplays)](https://www.linkedin.com/in/mulinhagplays/)
-
-</h4>
-
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mulinhagplays&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mulinhagplays&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mulinhagplays&theme=nord_dark) |
 | :-: | :-: | :-: |
 
